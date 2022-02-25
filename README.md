@@ -41,7 +41,7 @@ The results of this analysis are below:
 2. Louise is most likely to have the biggest chance for success if she launches her campaign in May. If her campaign is not ready to launch in May, June would be the next best month to launch. 
 
 ### Outcomes Based on Goals Conclusion
-Based on historical trends, the campaigns with the _highest_ likelihood of success were those with funding goals less than $5,000. Specifically, from the data we see over 70% of campaigns were successful when the goal was less than $5,000 (see screenshot below). 
+Based on historical trends, the play campaigns with the _highest_ likelihood of success were those with funding goals less than $5,000. Specifically, from the data we see over 70% of campaigns were successful when the goal was less than $5,000 (see screenshot below). 
 
 ![Outcomes_vs_Goals_table](https://user-images.githubusercontent.com/99286327/155814678-058d01e2-2276-4d24-843b-7c4110e4b794.png)
 
