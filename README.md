@@ -20,7 +20,7 @@ The results of this analysis are as follows:
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/99286327/155813197-52e51ff6-9221-44cb-89e3-9f752985833e.png)
 
 ### Analysis of Outcomes Based on Goals
-Another important aspect to analyze was the outcome of a campaign based on the goal amount. This insight would help inform whether Louise's budget of $10,000+ is realistic in getting funded based on historical data. Again, I included all countries and timeframes.
+Another important aspect to analyze was the outcome of the play campaigns based on the goal amount. This insight would help inform whether Louise's budget of $10,000+ is realistic in getting funded based on historical data. Again, I included all countries and timeframes.
 
 The results of this analysis are below:
 
